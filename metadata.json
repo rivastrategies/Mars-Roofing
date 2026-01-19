@@ -1,0 +1,7 @@
+{
+  "name": "Mars Roofing and Construction",
+  "description": "A modern, high-conversion website for a premier roofing and construction company serving the Houston & Gulf Coast area. Features service highlights, a professional portfolio, and a lead-capture engine.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
